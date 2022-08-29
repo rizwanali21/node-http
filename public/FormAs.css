@@ -1,0 +1,40 @@
+body{
+    background-color: aqua;
+}
+.main{
+    background-color:aqua;
+    height:100%;
+    width:100%;
+}
+
+.sub1{
+    background-color:white;
+    height:100%;
+    width:40%;
+    margin:5% 5% 5% 5%;
+    float:left;
+}
+
+
+
+h1{
+    font-size:40px;
+    text-align: center;
+    color: black;
+}
+
+.formBody{
+    height: 80%;
+    background-color: white;
+}
+
+input{
+    background-color: rgb(219, 206, 206);
+    width:45%; 
+    height:5%;
+    border: blueviolet;
+}
+
+input:focus{
+    background-color: rgb(150, 127, 255);
+}
